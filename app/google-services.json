@@ -1,0 +1,37 @@
+{
+  "project_info": {
+    "project_number": "842513049679",
+    "firebase_url": "https://hozukiproject.firebaseio.com",
+    "project_id": "hozukiproject",
+    "storage_bucket": "hozukiproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842513049679:android:4fa0ea1e3c4c5785",
+        "android_client_info": {
+          "package_name": "com.kenlee.hozukiproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmbkGVsDcbKJ2-ykYk9wR32mwTSX2w6EU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
